@@ -8,7 +8,7 @@ Street food vendors in India struggle with raw material sourcing from trusted an
 - Managing individual small orders
 
 
-  ## 🔗 Live Preview  
+## 🔗 Live Preview  
 [Click here to view the website](https://adrika-02.github.io/Vendor-Connect/)
 
 
