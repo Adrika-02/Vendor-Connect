@@ -1,0 +1,29 @@
+{
+  "name": "vendorconnect-street-food",
+  "version": "1.0.0",
+  "description": "A hyperlocal raw material sourcing platform for street food vendors through group buying",
+  "main": "index.html",
+  "homepage": "https://<your-github-username>.github.io/<repo-name>",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -o",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [
+    "street-food",
+    "vendors",
+    "sourcing",
+    "group-buying",
+    "marketplace",
+    "hackathon"
+  ],
+  "author": "VendorConnect Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "gh-pages": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<your-github-username>/<repo-name>.git"
+  }
+}
