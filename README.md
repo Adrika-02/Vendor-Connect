@@ -14,6 +14,9 @@ Street food vendors in India struggle with raw material sourcing from trusted an
 - Reduce individual ordering hassles
 - Save money through group discounts
 
+## Live Preview:
+https://adrika-02.github.io/Vendor-Connect/
+
 ## 🚀 Key Features
 
 ### For Vendors:
